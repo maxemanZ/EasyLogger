@@ -13,5 +13,5 @@ EasyLogger.Logger logger = new EasyLogger.Logger();
 #### Log
 
 ```csharp
-    Logger.Log(LogType.Info,"Hello World");
+    Logger.Log(LogType.Info, "Hello World");
 ```
